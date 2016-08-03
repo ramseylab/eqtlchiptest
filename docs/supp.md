@@ -4,7 +4,7 @@ To accompany the manuscript _Identifying cell type-specific transcription factor
 
 (Submitted to the Journal of Bioinformatics and Computational Biology, August 2016)
 
-**Table S1. TFs known to play regulatory function in monocytes, based on a literature review**
+**Table S1. TFs known to have regulatory functions in monocytes, based on a literature review**
 
 | Year | Authors | Transcription Factors | Reference No. |
 | --- | --- | --- | --- |
