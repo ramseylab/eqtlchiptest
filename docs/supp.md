@@ -2,7 +2,7 @@
 
 To accompany the manuscript _Identifying cell type-specific transcription factors by integrating ChIP-seq and eQTL data–application to monocyte gene regulation,_ by Mudra Choudhury and Stephen A. Ramsey.<sup>1</sup>
 
-(Submitted to the Journal of Bioinformatics and Computational Biology, August 2016)
+(Submitted to Gene Regulation and Systems Biology, 2016)
 
 **Table S1. TFs known to have regulatory functions in monocytes, based on a literature review**
 
